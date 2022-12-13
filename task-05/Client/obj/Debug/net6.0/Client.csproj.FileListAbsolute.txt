@@ -1,0 +1,17 @@
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/Client
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/Client.deps.json
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/Client.dll
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/ref/Client.dll
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/Client.pdb
+/home/sarin/tasks/task-05/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.dll
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/ref/Client.dll
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.pdb
+/home/sarin/tasks/task-05/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
